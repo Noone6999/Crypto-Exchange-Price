@@ -10,6 +10,8 @@ const Texto = styled.div`
     font-weight: 700;
     text-align: center;
     border-radius: 5px;
+    width: 60%;
+    margin: 20px auto;
 `
 
 const Error = ({children}) => {
